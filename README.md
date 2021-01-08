@@ -1,3 +1,3 @@
 # BlockChain 
 # BUPT Swan Goose
-# Public welfare information managementsystem
+# Public welfare information management system
